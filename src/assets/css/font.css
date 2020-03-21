@@ -1,0 +1,21 @@
+@font-face {
+  font-family: "FZY3JW";
+  src: url('../font/FZY3JW.TTF');    
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "FZYXJW";
+  src: url('../font/FZYXJW.TTF');    
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "FZSEJW";
+  src: url('../font/FZSEJW.TTF');    
+  font-weight: normal;
+  font-style: normal;
+}
+

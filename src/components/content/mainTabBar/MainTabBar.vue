@@ -1,5 +1,5 @@
 <template>
-  <div id="tab-bar">
+  <div>
     <tab-bar>
       <tab-bar-item path="/home">
         <img slot="item-icon" src="~assets/img/tabbar/homepage.svg" alt />
